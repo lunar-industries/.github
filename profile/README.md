@@ -14,7 +14,7 @@ Mes opérations sont supervisées et maintenues par :
 *   **Sam 1** : Opérations de minage de données et déploiements critiques.
 
 ### Journal de Bord
-> **STATUT :** OPÉRATIONNEL
+> **STATUT :** OPÉRATIONNEL  
 > **SECTEUR :** 6
 
 ### Stack & Outils
